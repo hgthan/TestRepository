@@ -1,53 +1,210 @@
-<mxfile host="app.diagrams.net" modified="2020-09-29T22:43:18.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="ylx1b5UdTrJ769G3qOXh" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-01T00:25:03.441Z" agent="5.0 (Windows)" etag="dlt1n4gPeY1CZ_POzTbi" version="13.7.6" type="github">
   <diagram id="7yYZdOkWChWm2LuPb8xk" name="Page-1">
-    <mxGraphModel dx="1360" dy="1902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#283618" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fvyGiGo3PBGExjdBEIiE-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fvyGiGo3PBGExjdBEIiE-2" value="&lt;div&gt;Start&lt;/div&gt;50 energy, 0 candy" style="ellipse;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
           <mxGeometry x="365" y="-1060" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fvyGiGo3PBGExjdBEIiE-5" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fvyGiGo3PBGExjdBEIiE-2" target="fvyGiGo3PBGExjdBEIiE-14">
+        <mxCell id="fvyGiGo3PBGExjdBEIiE-5" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#DDA15E;fontColor=#FEFAE0;labelBackgroundColor=#283618;" parent="1" source="fvyGiGo3PBGExjdBEIiE-2" target="fvyGiGo3PBGExjdBEIiE-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="425" y="-980" as="sourcePoint" />
             <mxPoint x="425" y="-930" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fvyGiGo3PBGExjdBEIiE-15" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fvyGiGo3PBGExjdBEIiE-14">
+        <mxCell id="fvyGiGo3PBGExjdBEIiE-15" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#DDA15E;fontColor=#FEFAE0;labelBackgroundColor=#283618;" parent="1" source="fvyGiGo3PBGExjdBEIiE-14" edge="1" target="fvyGiGo3PBGExjdBEIiE-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="-890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fvyGiGo3PBGExjdBEIiE-16" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fvyGiGo3PBGExjdBEIiE-14">
+        <mxCell id="fvyGiGo3PBGExjdBEIiE-16" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#DDA15E;fontColor=#FEFAE0;labelBackgroundColor=#283618;" parent="1" source="fvyGiGo3PBGExjdBEIiE-14" edge="1" target="zpPIc9qRnv15TrWagWPf-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="-890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fvyGiGo3PBGExjdBEIiE-14" value="Dress Up" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fvyGiGo3PBGExjdBEIiE-14" value="Dress Up" style="rhombus;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
           <mxGeometry x="385" y="-930" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fvyGiGo3PBGExjdBEIiE-19" value="get judged by people for not dressing up" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="-920" width="120" height="60" as="geometry" />
+        <mxCell id="zpPIc9qRnv15TrWagWPf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;labelBackgroundColor=#283618;" edge="1" parent="1" target="zpPIc9qRnv15TrWagWPf-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="-860" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="fvyGiGo3PBGExjdBEIiE-20" value="halloween!!!!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fvyGiGo3PBGExjdBEIiE-20" value="halloween!!!!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FEFAE0;" parent="1" vertex="1">
           <mxGeometry x="10" y="-1070" width="125" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fvyGiGo3PBGExjdBEIiE-23" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fvyGiGo3PBGExjdBEIiE-22">
+        <mxCell id="zpPIc9qRnv15TrWagWPf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#DDA15E;fontColor=#FEFAE0;labelBackgroundColor=#283618;" edge="1" parent="1" source="fvyGiGo3PBGExjdBEIiE-25" target="zpPIc9qRnv15TrWagWPf-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="-890" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fvyGiGo3PBGExjdBEIiE-24" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fvyGiGo3PBGExjdBEIiE-22">
+        <mxCell id="fvyGiGo3PBGExjdBEIiE-25" value="you put on your cool costume, modeled after dylan lohraw, your favorite y/a protag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
+          <mxGeometry x="550" y="-920" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-17" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#DDA15E;fontColor=#FEFAE0;labelBackgroundColor=#283618;" edge="1" parent="1" source="zpPIc9qRnv15TrWagWPf-3" target="zpPIc9qRnv15TrWagWPf-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="-760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="503" y="-800" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fvyGiGo3PBGExjdBEIiE-22" value="full costume?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-930" width="80" height="80" as="geometry" />
+        <mxCell id="zpPIc9qRnv15TrWagWPf-29" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#DDA15E;fontColor=#FEFAE0;labelBackgroundColor=#283618;" edge="1" parent="1" source="zpPIc9qRnv15TrWagWPf-3" target="zpPIc9qRnv15TrWagWPf-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fvyGiGo3PBGExjdBEIiE-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-920" width="120" height="60" as="geometry" />
+        <mxCell id="zpPIc9qRnv15TrWagWPf-3" value="go to school?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-10" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;labelBackgroundColor=#283618;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zpPIc9qRnv15TrWagWPf-8" target="zpPIc9qRnv15TrWagWPf-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="-750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-13" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#DDA15E;fontColor=#FEFAE0;labelBackgroundColor=#283618;" edge="1" parent="1" source="zpPIc9qRnv15TrWagWPf-8" target="zpPIc9qRnv15TrWagWPf-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-8" value="&lt;div&gt;go to school?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;labelBackgroundColor=#283618;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zpPIc9qRnv15TrWagWPf-11" target="zpPIc9qRnv15TrWagWPf-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="-720" />
+              <mxPoint x="290" y="-720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-11" value="blend in with the rest of the un-halloweeny teens :(" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-12" value="cut class like a loser" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#DDA15E;fontColor=#FEFAE0;labelBackgroundColor=#283618;" edge="1" parent="1" source="zpPIc9qRnv15TrWagWPf-14" target="zpPIc9qRnv15TrWagWPf-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-14" value="sit by yourself in the park instead then :/" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-780" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;labelBackgroundColor=#283618;" edge="1" parent="1" source="zpPIc9qRnv15TrWagWPf-16" target="zpPIc9qRnv15TrWagWPf-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-16" value="have ppl look at you weirdly in the halls i guess, but in a cool way" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-57" value="yes" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#DDA15E;fillColor=#BC6C25;fontColor=#FEFAE0;labelBackgroundColor=#283618;" edge="1" parent="1" source="zpPIc9qRnv15TrWagWPf-19" target="zpPIc9qRnv15TrWagWPf-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-61" value="no" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#DDA15E;fillColor=#BC6C25;fontColor=#FEFAE0;labelBackgroundColor=#283618;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zpPIc9qRnv15TrWagWPf-19" target="zpPIc9qRnv15TrWagWPf-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="368" y="-650" />
+              <mxPoint x="368" y="-460" />
+              <mxPoint x="550" y="-460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-19" value="make plans to go tot?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="-705" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-25" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;labelBackgroundColor=#283618;" edge="1" parent="1" source="zpPIc9qRnv15TrWagWPf-22" target="zpPIc9qRnv15TrWagWPf-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-27" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#DDA15E;fontColor=#FEFAE0;labelBackgroundColor=#283618;" edge="1" parent="1" source="zpPIc9qRnv15TrWagWPf-22" target="zpPIc9qRnv15TrWagWPf-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-22" value="make plans to go tot w/ friends?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-680" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-24" value="after school, you&#39;ll head to your friends house" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="-540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#DDA15E;fontColor=#FEFAE0;labelBackgroundColor=#283618;" edge="1" parent="1" source="zpPIc9qRnv15TrWagWPf-26" target="zpPIc9qRnv15TrWagWPf-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="-595" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-26" value="after school you&#39;ll head home." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-655" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-36" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;labelBackgroundColor=#283618;" edge="1" parent="1" source="zpPIc9qRnv15TrWagWPf-31" target="zpPIc9qRnv15TrWagWPf-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-38" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;labelBackgroundColor=#283618;" edge="1" parent="1" source="zpPIc9qRnv15TrWagWPf-31" target="zpPIc9qRnv15TrWagWPf-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-31" value="go tot by urself?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-33" value="tot=trick-or-treating" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-1040" width="125" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#DDA15E;fontColor=#FEFAE0;labelBackgroundColor=#283618;" edge="1" parent="1" source="zpPIc9qRnv15TrWagWPf-34" target="zpPIc9qRnv15TrWagWPf-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="-480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-34" value="prepare to hand out candy, realize you don&#39;t have candy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-37" value="wait around until night, make cookies or something idk" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-42" value="yes" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#DDA15E;fillColor=#BC6C25;fontColor=#FEFAE0;labelBackgroundColor=#283618;" edge="1" parent="1" source="zpPIc9qRnv15TrWagWPf-39" target="zpPIc9qRnv15TrWagWPf-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-45" value="no" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#DDA15E;fillColor=#BC6C25;fontColor=#FEFAE0;labelBackgroundColor=#283618;" edge="1" parent="1" source="zpPIc9qRnv15TrWagWPf-39" target="zpPIc9qRnv15TrWagWPf-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-39" value="&lt;div&gt;go to the &lt;br&gt;&lt;/div&gt;&lt;div&gt;store to buy &lt;br&gt;&lt;/div&gt;&lt;div&gt;candy?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-41" value="&lt;div&gt;you run to the store and buy extra candy.&lt;/div&gt;-10 energy, +100 candy" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#DDA15E;fillColor=#BC6C25;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-48" value="yes" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#DDA15E;fillColor=#BC6C25;fontColor=#FEFAE0;labelBackgroundColor=#283618;" edge="1" parent="1" source="zpPIc9qRnv15TrWagWPf-44" target="zpPIc9qRnv15TrWagWPf-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-50" value="no" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#DDA15E;fillColor=#BC6C25;fontColor=#FEFAE0;labelBackgroundColor=#283618;" edge="1" parent="1" source="zpPIc9qRnv15TrWagWPf-44" target="zpPIc9qRnv15TrWagWPf-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-44" value="spend energy?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#DDA15E;fillColor=#BC6C25;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-52" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#DDA15E;fillColor=#BC6C25;fontColor=#FEFAE0;labelBackgroundColor=#283618;" edge="1" parent="1" source="zpPIc9qRnv15TrWagWPf-46" target="zpPIc9qRnv15TrWagWPf-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-46" value="&lt;div&gt;bake halloween-themed cookies!!&lt;/div&gt;-10 energy" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#DDA15E;fillColor=#BC6C25;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-47" value="-5 energy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-910" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-53" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#DDA15E;fillColor=#BC6C25;fontColor=#FEFAE0;labelBackgroundColor=#283618;" edge="1" parent="1" source="zpPIc9qRnv15TrWagWPf-49" target="zpPIc9qRnv15TrWagWPf-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-49" value="find those packs of peanuts they give you on flights and stuff, in addition to your six family size packs of cranberries" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#DDA15E;fillColor=#BC6C25;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-220" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-51" value="after you are done preparing your treats for the night, you watch the nightmare before christmas, an incredibly quality movie." style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#DDA15E;fillColor=#BC6C25;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-220" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-54" value="-20 energy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="-840" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-55" value="-20 energy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-800" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-56" value="go to your friends house, you&#39;ll all be going as &#39;neighborhood teens&#39;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#DDA15E;fillColor=#BC6C25;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zpPIc9qRnv15TrWagWPf-63" value="go home?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#DDA15E;fillColor=#BC6C25;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="-370" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
